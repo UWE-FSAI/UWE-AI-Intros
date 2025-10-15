@@ -1,1 +1,0 @@
-print("😂 I love vibe coding — I don't debug, I just vibe.")
