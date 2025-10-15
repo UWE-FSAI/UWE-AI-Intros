@@ -19,3 +19,8 @@ Open the new directory (folder) in your favourite code editor
 Once you've written (and saved) your joke, remember to `git add ` the file
 
 Then run `git commit -m "<your commit message>"` and `git push --set-upstream origin <your branch name>`
+
+## The Joke
+"Why do programmers prefer dark mode?
+Because light attracts bugs!"
+- Mohammad Faraj
